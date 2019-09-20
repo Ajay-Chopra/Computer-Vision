@@ -10,7 +10,10 @@ Computer vision has long been an interest of mine ever since I began studying co
 
 #### Live Face Swapper
 This code lets the user implement live face swapping using a webcam. Using an image from the user's local directory, the program maps that
-image onto the user's face in real time. The project uses several common CV techniques, such as the DLIB implementation of the Viola and Jones facial landmark detection algorithm. After the facial landmarks of the directory image are identified, the face is translated, scaled and rotated to fit over the webcam image. Lastly, I modify the color balance of the directory image to match that of the first, along with blending some of the features around the edges to make the transition more seamless. Some results can be seen below.
+image onto the user's face in real time. The project uses several common CV techniques, such as the DLIB implementation of the Viola and Jones facial landmark detection algorithm. After the facial landmarks of the directory image are identified, the face is translated, scaled and rotated to fit over the webcam image. Lastly, I modify the color balance of the directory image to match that of the first, along with blending some of the features around the edges to make the transition more seamless. One result can be seen below.
+
+
+![alt text]()
 
 
 
