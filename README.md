@@ -13,7 +13,7 @@ This code lets the user implement live face swapping using a webcam. Using an im
 image onto the user's face in real time. The project uses several common CV techniques, such as the DLIB implementation of the Viola and Jones facial landmark detection algorithm. After the facial landmarks of the directory image are identified, the face is translated, scaled and rotated to fit over the webcam image. Lastly, I modify the color balance of the directory image to match that of the first, along with blending some of the features around the edges to make the transition more seamless. One result can be seen below.
 
 
-![alt text]()
+![Office Face Swap](https://github.com/Ajay-Chopra/Computer-Vision/blob/master/Images/officeFaceSwap1.jpg)
 
 
 
